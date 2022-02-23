@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **doanthaocntt/doanthaocntt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="doanthaocntt-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/doanthaocntt/" target="blank">
-    <img src="https://icons8.com/icon/64154/icon" alt="doanthaocntt-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="doanthaocntt-linkedin" />
   </a>
   <a href="www.instagram.com/doan.thao_/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="doanthaocntt-instagram" />
